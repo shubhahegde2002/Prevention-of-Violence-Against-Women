@@ -9,7 +9,6 @@ Violence against women is deep-rooted and has unequal power and gender relations
 ### Crime Trends Across Various States in India: Line Graphs
 ![trend1](https://user-images.githubusercontent.com/73905298/138575044-05d60cc6-3062-46b1-b19c-c9271c01fc74.jpg)
 ![trend2](https://user-images.githubusercontent.com/73905298/138575047-d1e1e2e3-45fc-46e8-ac7f-446a937067d6.jpg)
-![trend6](https://user-images.githubusercontent.com/73905298/138575048-cff81247-dd7c-4932-9035-1f35bf30f4fd.jpg)
 ![trend5](https://user-images.githubusercontent.com/73905298/138575051-828b9d53-c3eb-4216-b632-73d50df86363.jpg)
 ![trend7](https://user-images.githubusercontent.com/73905298/138575052-1f5a9467-f7e4-44bc-9fb4-48b17d9eb539.jpg)
 ![trend4](https://user-images.githubusercontent.com/73905298/138575053-867a225e-511a-4d24-9ba5-6b10750c53d3.jpg)
