@@ -1,4 +1,4 @@
-# Prevention-of-Violence-Against-Women
+# Prevention of Violence Against Women
 Violence against women is deep-rooted and has unequal power and gender relations (CARE International, 2018), it transcends social and economic boundaries, and affects women and girls of all socio-economic backgrounds. Data Preprocessing is done to create awareness about the gravity of this issue by using a variety of Data Cleaning, and Data Visualization techniques.
 
 ## Data Visualization: Analysis of Dataset
